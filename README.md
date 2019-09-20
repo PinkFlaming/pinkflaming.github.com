@@ -1,2 +1,2 @@
-# pinkflaming.github.com
+# Bohdan Pylypenko
 Мой сайт
